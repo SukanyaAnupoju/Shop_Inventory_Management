@@ -1,0 +1,1 @@
+A full-stack shop inventory management system built with the MERN stack (MongoDB, Express.js, React.js, Node.js). This application helps businesses manage their products, sales, and users in a secure and efficient way.
